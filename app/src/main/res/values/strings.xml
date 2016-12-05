@@ -6,4 +6,10 @@
     <string name="sync_account_type">news.example.com</string>
     <string name="content_authority">com.example.prekshasingla.news.app</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="poster_description">Poster View</string>
+
+
 </resources>
