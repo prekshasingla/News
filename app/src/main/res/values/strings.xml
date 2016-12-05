@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- SyncAdapter related -->
+    <string name="sync_account_type">news.example.com</string>
+    <string name="content_authority">com.example.prekshasingla.news.app</string>
+
+</resources>
